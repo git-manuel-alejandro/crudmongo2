@@ -35,7 +35,7 @@ python manage.py runserver
 
 [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
 
-## 🧪 Funcionalidades
+## Funcionalidades
 
 - Listar productos
 - Crear nuevo producto
@@ -51,13 +51,13 @@ python manage.py runserver
 
 ## Ventajas de usar ORM
 
-Abstracción y legibilidad
-Menor riesgo de errores (como inyecciones)
-Reutilización y mantenimiento del código
-Validación automática
-Consultas complejas simplificadas
-Integración natural con formularios y vistas (Django)
-Tests más simples
+- Abstracción y legibilidad
+- Menor riesgo de errores (como inyecciones)
+- Reutilización y mantenimiento del código
+- Validación automática
+- Consultas complejas simplificadas
+- Integración natural con formularios y vistas (Django)
+- Tests más simples
 
 ---
 
