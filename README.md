@@ -59,14 +59,4 @@ python manage.py runserver
 - Integración natural con formularios y vistas (Django)
 - Tests más simples
 
----
 
-Desarrollado para fines educativos y conocimiento de cómo se interactúa a la base de datos con mongo.
-
-## Notas
-
-Este ejemplo no incluye autenticación de usuarios.
-
----
-
-Desarrollado para fines educativos y conocimiento de cómo se interactúa a la base de datos con mongo.
